@@ -1,0 +1,8 @@
+preparation0
+address:335544320
+dst:Salt-Lake
+ingress:Albany
+match:exist>=1
+path_exp:Albany.*Salt-Lake
+all_paths:
+Albany,Denver,Albuquerque,Tucson,Dallas,Houston,Los-Angeles,Burbank,Sunnyvale,Salt-Lake

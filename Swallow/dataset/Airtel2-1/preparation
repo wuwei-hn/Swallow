@@ -1,0 +1,8 @@
+preparation0
+address:335544320
+dst:Los-Angeles
+ingress:Chennai
+match:exist>=1
+path_exp:Chennai-1.*NiXI-2
+all_paths:
+Chennai-1,Mumbai-5,NiXI-2

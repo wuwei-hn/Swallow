@@ -1,0 +1,12 @@
+fw 335544320 24 salt->kans
+fw 335544576 24 salt->losa
+fw 335544832 24 salt->seat
+fw 335545088 24 salt->kans
+fw 335545344 24 salt->losa
+fw 335545600 24 salt->seat
+fw 335545856 24 salt->kans
+fw 335546112 24 salt->losa
+fw 335546368 24 salt->seat
+fw 335546624 24 salt->kans
+fw 335546880 24 salt->losa
+fw 0 0 salt->losa salt->seat

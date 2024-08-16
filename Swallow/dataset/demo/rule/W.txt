@@ -1,0 +1,1 @@
+ALL 12345 24 W->A W->B W->C W->D W->p W->q

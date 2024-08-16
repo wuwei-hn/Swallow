@@ -1,0 +1,8 @@
+preparation4
+address:335544320
+dst:Ca
+ingress:D
+match:exist>=1
+path_exp:D.*Ca
+all_paths:
+D,Ce,W,Cc,S,Ca
